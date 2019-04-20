@@ -44,5 +44,5 @@ At the moment you can ask for the current weather, the temperature and the weath
 - *Wie viel Grad hat es draußen?*
 
 ## This version
-- forked from https://github.com/MrJohnZoidberg/Snips-Wetter 
-- weather.py was modified by https://github.com/seiichiro0185 to work well with the current version of snips-voice-platform  (0.61.1)
+- forked from https://github.com/FBrahe/Wetter-snips-0.61.1
+- added mqtt options in config.ini
